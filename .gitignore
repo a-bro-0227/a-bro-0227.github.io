@@ -5,3 +5,10 @@ Gemfile.lock
 .DS_Store
 .jekyll-cache
 *.gem
+
+# ide folders
+.idea/*
+Lib/*
+Scripts/*
+
+pyvenv.cfg
