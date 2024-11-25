@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Hi There, World! 
+# Hi There, World! 
 
 I’m Alex!
 

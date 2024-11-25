@@ -6,45 +6,49 @@ categories: posts
 tags: [posts, about]
 image: cuba-2.jpg
 ---
-
+---
 # Hi there, World!
 
 ## I'm Alex! 😎✌️
 
-A data professional with a passion for technology, learning, and building things with good folks!
+I’m an experienced data professional with a passion for technology and creating meaningful solutions that unlock the power of data.
 
-Over the years, I've had the privilege helping organizations _**harness the power of data**_ in various data roles.
+Over the years, I’ve had the privilege of helping organizations transform raw data into actionable insights, guiding them to make smarter decisions and achieve impactful results.
 
-### Professional Background
+---
 
-Over the years, I have honed my skills in data and technology, working with Python, R, SQL and NoSQL databases, AWS, APIs, and business intelligence tools like Tableau and Power BI. My experience includes roles such as data analyst, data engineer, and data manager, equipping me with a versatile skill set and a deep understanding of data engineering, analytics, data science and machine learning. I've worked for large companies of over 15,000, small companies with less than 35 people, and everything in between. I have a proven track record in architecting and optimizing data infrastructure, leading technical initiatives, and delivering actionable insights.
+## Professional Background
 
-### My Data Journey
+I’ve honed my skills in a variety of data and technology roles, working with tools and platforms like Python, R, SQL and NoSQL databases, AWS, APIs, Tableau, and Power BI. My career journey spans roles such as data analyst, data engineer, and data manager, equipping me with a well-rounded skill set across data engineering, analytics, data science, and machine learning.
 
-My data journey began after my undergraduate studies. While I went to school for Supply Chain Management and Economics, I developed a passion for data and technology in my first role out of college.
+I’ve had the opportunity to work for organizations of all sizes—from startups with fewer than 35 employees to enterprises with over 20,000 team members. In each role, I’ve contributed to architecting and optimizing data infrastructure, leading technical initiatives, and delivering insights that drive real impact.
 
-Initially, I thought I had to *excel at Excel* to keep up with my colleagues. As I mastered Excel, I realized not many people were as proficient with it and other technologies as I had assumed.
+---
 
-I enjoyed the reputation I was building as the go-to person for organizing messy data into something comprehensible. And it was fun to "crunch" the numbers! After some time on the job, I was introduced to SQL, which sparked my desire to learn more efficient ways to handle bigger and bigger datasets.
+## My Data Journey
 
-I never really knew what I wanted to do when I "grew up". While I'm still not sure I'll ever grow up, I do knew there was something to this data thing!
+My data journey began in a somewhat unexpected way. I studied **Supply Chain Management** and **Economics** in college at the **University of Northern Iowa** and landed my first role thinking I needed to *excel at Excel* just to keep up. As I mastered Excel, I realized that many of my colleagues weren’t as fluent in the tool as I had imagined—and that’s where I found my niche.
 
-To further my knowledge, I enrolled in a data analytics master's program at a university in the area, taking night classes while working full-time to fund my education. The program exposed me to advanced analytical concepts, various data techniques, and different programming languages. However, I believe a master's degree isn't necessary for success in technology or data. I started my master's program right before "Data Scienctist" was ranked the number one job on Glass Door and there was not the abundance of learning resources available today.
+I quickly became the go-to person for turning messy data into clear, actionable insights. I loved the process of "crunching numbers" and solving problems. It wasn’t long before I encountered SQL, which opened the door to managing larger datasets more efficiently and sparked my desire to explore even deeper into the world of data.
 
-For example, after I finished my master and sometime in the field, I found a data analytics boot camp that allowed me to become a mentor, helping students switch careers or advance in their current roles. I think programs like these, coupled with the amazing free resources out there, is a great option for someone wanting to better understand how to harness the powers of data.
+While I never had a concrete plan for what I wanted to do “when I grew up,” discovering data was a lightbulb moment. I decided to further my skills by enrolling in a master’s program in **Businss Analytics** from the **University of Iowa**, attending night classes while working full-time. This experience introduced me to advanced analytical techniques, programming languages, and the broader possibilities of data science.
 
-### A Bit About Me
+That said, I firmly believe that a master’s degree isn’t a requirement for success in data or technology. In fact, the abundance of resources available today—free tutorials, online courses, and structured programs—makes it easier than ever for anyone to start their data journey.
 
-When I'm not working, I enjoy biking, hiking, or anything that gets me outdoors!
+For example, I became a mentor at a data analytics bootcamp, where I helped students pivot into data careers or enhance their current skills. Watching others grow and succeed has been one of the most rewarding aspects of my journey. Programs like these, combined with free learning resources, can be an excellent path for anyone looking to harness the power of data. More about that here: (link to be added)
 
-I have a wife, a dog, and a guitar!
+After my masters, I was 
 
-Crushing some single track, rocking out some riffs, and spending time with loved one's helped me stay balanced and inspired for this data life!
+---
 
-I am orginally from NorthEast Iowa, but have been moving around through my wife's job. She is a traveling histotechnologist and takes 3 month - o
+## A Bit About Me
 
-### Let's Connect!
+When I’m not working with data, you’ll likely find me outdoors—biking, hiking, or enjoying nature in any way I can! I also love playing guitar, rocking out to riffs that help me unwind and stay creative.
 
-Feel free to com
+I’m originally from **Cedar Falls/Waterloo, Iowa**, though my wife’s career as a *traveling histotechnologist* has taken us on an adventure, moving to new places like Portland, Minneapolis, and Toledo. It’s been an exciting way to explore the country while keeping life dynamic.
 
-I’m always open to discussing new opportunities or projects. Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/alex-brown-b93aa029/).
+At home, I’m proud to share life with my amazing wife, our dog, and my trusty guitar. Whether I’m shredding some single track, strumming a melody, or spending time with loved ones, these moments keep me balanced and inspired for my data-driven life.
+
+I hope my story inspires you, whether you're just beginning your data journey or looking for new ways to grow in the field. Let’s connect and share our passion for data! 🚀
+
+---
