@@ -8,7 +8,7 @@ Hi There, World!
 
 I’m Alex!
 
-I’m a data enthusiast with a passion for technology and creating meaningful solutions. Whether it’s modernizing systems, debugging complex challenges, or visualizing data effectively, I thrive at the intersection of technical expertise and thoughtful design. I’m committed to doing things the right way—focusing on best practices, maintainable code, scalable processes, and effective automation.
+I'm an experienced data professional with a passion for technology and creating meaningful solutions to extract insights from data. Whether it’s modernizing systems, debugging complex challenges, or visualizing data effectively, I thrive at the intersection of technical expertise and thoughtful design. I’m committed to doing things the right way—focusing on best practices, maintainable code, scalable processes, and effective automation.
 
 Mentoring and sharing knowledge have always been at the heart of what I do. This blog is my way of taking that passion to a wider scale, creating a space to share insights, lessons, and ideas that can help others grow in their own journeys. Whether it’s exploring cutting-edge technologies, optimizing workflows and code, or tackling real-world challenges, my goal is to make complex topics accessible and actionable for everyone.
 
