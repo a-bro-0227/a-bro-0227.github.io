@@ -2,7 +2,7 @@
 layout: post
 title: "My Data Journey"
 author: "A. Brown"
-categories: facts
+categories: posts
 tags: [posts, about]
 image: cuba-2.jpg
 ---

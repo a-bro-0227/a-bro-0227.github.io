@@ -2,7 +2,7 @@
 layout: post
 title: "How I Made This Blog...For Free!!!"
 author: "Alex Brown"
-categories: resources
+categories: posts
 tags: [documentation, posts]
 image: arctic-2.jpg
 ---
